@@ -13,3 +13,6 @@
 - Convert the app to TypeScript and add types.
 - Add end-to-end tests.
 - Use the styling in App.css.
+
+This is the project when you start:
+![image of the basic project outline](./public/skeleton.png)
